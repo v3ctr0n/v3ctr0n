@@ -19,5 +19,5 @@
 
 ## ABOUT ME
  - I'm a highschool student with interest in ethical hacking, programming and astrophysics. 
- - My username is derived from my favourite train *Siemens Vectron*
+ - My username is derived from my favourite electrical train *Siemens Vectron*
 <img src = "https://user-images.githubusercontent.com/72461989/182615697-5322bc6d-4c36-4dc0-a1d3-c982f25ecd97.jpg" alt = "img" width= "700"/>
