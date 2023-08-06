@@ -24,7 +24,7 @@
 <h2 align = "center"> about me </h2>
 <ul align = "center">
   <em>I'm a hacker train fan.<br> 
-  All hail Vectron.</br></em>
+  By Vectron!.</br></em>
  </ul>
 <p align = "center">
 <img src = "https://user-images.githubusercontent.com/72461989/182615697-5322bc6d-4c36-4dc0-a1d3-c982f25ecd97.jpg" alt = "img" width= "500"/>
